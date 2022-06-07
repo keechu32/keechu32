@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @keechu32
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning unity Engine
-- 🌱 Also Venturing out into becoming a full stack developer
+- 🌱 Venturing out into becoming a full stack developer
 - 📫 How to reach me keechu32@gmail.com
 
 <!---
